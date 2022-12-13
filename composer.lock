@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "fb16399fb21b0a8bceb91c17a234949b",
+    "content-hash": "fdc5015f593509af2d6b09db2a62d53f",
     "packages": [
         {
             "name": "codeigniter4/framework",
@@ -259,19 +259,24 @@
         },
         {
             "name": "webigniters/webigniter-core",
-            "version": "1.0.5",
+            "version": "1.0.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/webigniters/webigniter-core.git",
-                "reference": "f919f32aab9dcf53060490408361f31b75b6609e"
+                "reference": "6a086db9e834d1f0672f821fe779998ca6ea5a89"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/webigniters/webigniter-core/zipball/f919f32aab9dcf53060490408361f31b75b6609e",
-                "reference": "f919f32aab9dcf53060490408361f31b75b6609e",
+                "url": "https://api.github.com/repos/webigniters/webigniter-core/zipball/6a086db9e834d1f0672f821fe779998ca6ea5a89",
+                "reference": "6a086db9e834d1f0672f821fe779998ca6ea5a89",
                 "shasum": ""
             },
             "type": "project",
+            "autoload": {
+                "psr-4": {
+                    "Webigniters\\": "system/"
+                }
+            },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
@@ -279,9 +284,9 @@
             "description": "Webigniter core",
             "support": {
                 "issues": "https://github.com/webigniters/webigniter-core/issues",
-                "source": "https://github.com/webigniters/webigniter-core/tree/1.0.3"
+                "source": "https://github.com/webigniters/webigniter-core/tree/1.0.7"
             },
-            "time": "2022-12-13T15:44:13+00:00"
+            "time": "2022-12-13T18:43:05+00:00"
         }
     ],
     "packages-dev": [],
