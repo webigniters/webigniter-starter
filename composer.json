@@ -6,6 +6,6 @@
   "minimum-stability": "stable",
   "require": {
     "codeigniter4/framework": "^4.2.10",
-    "webigniters/webigniter-core": "^1"
+    "webigniters/webigniter-core": ">=1.0"
   }
 }
