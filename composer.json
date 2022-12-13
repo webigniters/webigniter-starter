@@ -5,7 +5,7 @@
   "license": "MIT",
   "minimum-stability": "stable",
   "require": {
-    "webigniters/webigniter-core": ">=1.0.4",
+    "webigniters/webigniter-core": ">=1.0.5",
     "codeigniter4/framework": "^4.2.10"
   },
   "autoload": {
