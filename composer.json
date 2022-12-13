@@ -1,0 +1,10 @@
+{
+  "name": "webigniters/webigniter-starter",
+  "type": "project",
+  "description": "Webigniter starter",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "require": {
+    "webigniters/webigniter-core": "*"
+  }
+}
