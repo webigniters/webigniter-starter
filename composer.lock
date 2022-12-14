@@ -259,16 +259,16 @@
         },
         {
             "name": "webigniters/webigniter-core",
-            "version": "1.0.8",
+            "version": "1.0.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/webigniters/webigniter-core.git",
-                "reference": "c4133d5daed59a42d200751f71ed3514e5462103"
+                "reference": "0fc5e82506745094c84ef831af866150f004ec97"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/webigniters/webigniter-core/zipball/c4133d5daed59a42d200751f71ed3514e5462103",
-                "reference": "c4133d5daed59a42d200751f71ed3514e5462103",
+                "url": "https://api.github.com/repos/webigniters/webigniter-core/zipball/0fc5e82506745094c84ef831af866150f004ec97",
+                "reference": "0fc5e82506745094c84ef831af866150f004ec97",
                 "shasum": ""
             },
             "require": {
@@ -277,7 +277,7 @@
             "type": "project",
             "autoload": {
                 "psr-4": {
-                    "Webigniters\\": "app/"
+                    "Webigniter\\": "app/"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -287,9 +287,9 @@
             "description": "Webigniter core",
             "support": {
                 "issues": "https://github.com/webigniters/webigniter-core/issues",
-                "source": "https://github.com/webigniters/webigniter-core/tree/1.0.8"
+                "source": "https://github.com/webigniters/webigniter-core/tree/1.0.9"
             },
-            "time": "2022-12-13T19:22:03+00:00"
+            "time": "2022-12-14T07:00:42+00:00"
         }
     ],
     "packages-dev": [],
